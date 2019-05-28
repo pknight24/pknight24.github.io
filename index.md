@@ -1,4 +1,4 @@
 ### Parker Knight
 
-[Github](www.github.com/pknight24)
+[Github](https://www.github.com/pknight24)
 
