@@ -1,2 +1,2 @@
 index:
-	pandoc index.md -o index.html
+	pandoc -i index.md -s --css style.css -o index.html
