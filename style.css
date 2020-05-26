@@ -20,7 +20,7 @@ body {
   line-height: 1.2;
   padding: 1em;
   margin: 100px;
-  max-width: 42em;
+  max-width: 84em;
   background: #fefefe;
   text-align: left;
 }
@@ -68,12 +68,6 @@ a::selection {
 
 p {
   margin: 1em 0;
-}
-
-img {
-  max-width: 100%;
-  display: block;
-  text-align: center;
 }
 
 h1 {
@@ -219,7 +213,7 @@ dd:last-child {
 img {
   border: 0;
   -ms-interpolation-mode: bicubic;
-  vertical-align: middle;
+  vertical-align: right;
 }
 
 figure {
