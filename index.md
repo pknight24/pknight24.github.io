@@ -28,4 +28,4 @@ functional programming. I spent a summer working with [Tim Randolph](https://www
 in Seattle, WA, and served on the executive board of UF's Center for Undergraduate
 Research.
 
-You can find me on [GitHub](www.github.com/pknight24) and [Google Scholar](https://scholar.google.com/citations?user=NRV4UhwAAAAJ&hl=en&oi=ao).
+You can find me on [GitHub](https://www.github.com/pknight24) and [Google Scholar](https://scholar.google.com/citations?user=NRV4UhwAAAAJ&hl=en&oi=ao).
