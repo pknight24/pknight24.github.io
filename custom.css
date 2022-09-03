@@ -6,3 +6,6 @@ body {
 a:link {
 	color: darkred
 }
+a:visited {
+	color:darkred
+}
