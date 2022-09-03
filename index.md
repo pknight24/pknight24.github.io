@@ -2,9 +2,9 @@
 
 <link rel="stylesheet" href="custom.css">
 
-### bio 
+### Parker Knight 
 
-My name is Parker Knight. I am a doctoral student in biostatistics at Harvard
+I am a doctoral student in biostatistics at Harvard
 University, supported by an NSF Graduate Research Fellowship. 
 
 My research focuses on high-dimensional estimation, prediction, and signal detection problems
