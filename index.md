@@ -1,4 +1,8 @@
-# bio 
+<link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
+
+<link rel="stylesheet" href="custom.css">
+
+### bio 
 
 My name is Parker Knight. I am a doctoral student in biostatistics at Harvard
 University, supported by an NSF Graduate Research Fellowship. 
@@ -13,11 +17,15 @@ in statistical genetics. Recently, I'm thinking about:
   assocations under structured alternatives? Can we efficiently scale these tests to large,
   high-dimensional datasets?
 
-  I work closely on these problems with [Rui
-  Duan](https://www.hsph.harvard.edu/profile/rui-duan/) and [Rajarshi
-  Mukherjee](https://scholar.harvard.edu/rajarshi/home).
+
+I work closely on these problems with [Rui
+Duan](https://www.hsph.harvard.edu/profile/rui-duan/) and [Rajarshi
+Mukherjee](https://scholar.harvard.edu/rajarshi/home).
   
 Before coming to Harvard, I was a mathematics major at the University of
 Florida, where I explored interests in neuroscience, bioinformatics, and
 functional programming. I spent a summer working with [Tim Randolph](https://www.fredhutch.org/en/faculty-lab-directory/randolph-tim.html) at the Fred Hutch
-in Seattle, WA.
+in Seattle, WA, and served on the executive board of UF's Center for Undergraduate
+Research.
+
+You can find me on [GitHub](www.github.com/pknight24) and [Google Scholar](https://scholar.google.com/citations?user=NRV4UhwAAAAJ&hl=en&oi=ao).
