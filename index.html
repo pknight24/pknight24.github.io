@@ -1,24 +1,316 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang xml:lang>
 <head>
-<link rel="stylesheet" type="text/css" href="style.css"/>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>index</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <style type="text/css">
+html {
+font-size: 100%;
+overflow-y: scroll;
+-webkit-text-size-adjust: 100%;
+-ms-text-size-adjust: 100%;
+}
+title {
+text-align: center;
+}
+body {
+color: #444;
+font-family: Times, Georgia, Palatino, 'Palatino Linotype', serif;
+font-size: 11px;
+line-height: 1.2;
+padding: 1em;
+margin: 100px;
+max-width: 84em;
+background: #fefefe;
+text-align: left;
+}
+a {
+color: #0645ad;
+text-decoration: none;
+}
+a:visited {
+color: #0b0080;
+}
+a:hover {
+color: #06e;
+}
+a:active {
+color: #faa700;
+}
+a:focus {
+outline: thin dotted;
+}
+*::-moz-selection {
+background: rgba(255, 255, 0, 0.3);
+color: #000;
+}
+*::selection {
+background: rgba(255, 255, 0, 0.3);
+color: #000;
+}
+a::-moz-selection {
+background: rgba(255, 255, 0, 0.3);
+color: #0645ad;
+}
+a::selection {
+background: rgba(255, 255, 0, 0.3);
+color: #0645ad;
+}
+p {
+margin: 1em 0;
+}
+h1 {
+color: #1818b2;
+line-height: 125%;
+margin-top: 2em;
+font-weight: normal;
+text-align: center;
+background-color: yellow;
+}
+h2, h3, h4, h5, h6 {
+color: #111;
+line-height: 125%;
+margin-top: 2em;
+font-weight: normal;
+}
+h4, h5, h6 {
+font-weight: bold;
+}
+h1 {
+font-size: 2.5em;
+}
+h2 {
+font-size: 2em;
+}
+h3 {
+font-size: 1.5em;
+}
+h4 {
+font-size: 1.2em;
+}
+h5 {
+font-size: 1em;
+}
+h6 {
+font-size: 0.9em;
+}
+blockquote {
+color: #666666;
+margin: 0;
+padding-left: 3em;
+border-left: 0.5em #EEE solid;
+}
+hr {
+display: block;
+height: 2px;
+border: 0;
+border-top: 1px solid #aaa;
+border-bottom: 1px solid #eee;
+margin: 1em 0;
+padding: 0;
+}
+pre, code, kbd, samp {
+color: #000;
+font-family: monospace, monospace;
+_font-family: 'courier new', monospace;
+font-size: 0.98em;
+}
+pre {
+white-space: pre;
+white-space: pre-wrap;
+word-wrap: break-word;
+}
+b, strong {
+font-weight: bold;
+}
+dfn {
+font-style: italic;
+}
+ins {
+background: #ff9;
+color: #000;
+text-decoration: none;
+}
+mark {
+background: #ff0;
+color: #000;
+font-style: italic;
+font-weight: bold;
+}
+sub, sup {
+font-size: 75%;
+line-height: 0;
+position: relative;
+vertical-align: baseline;
+}
+sup {
+top: -0.5em;
+}
+sub {
+bottom: -0.25em;
+}
+ul, ol {
+margin: 1em 0;
+padding: 0 0 0 2em;
+}
+li p:last-child {
+margin-bottom: 0;
+}
+ul ul, ol ol {
+margin: .3em 0;
+}
+dl {
+margin-bottom: 1em;
+}
+dt {
+font-weight: bold;
+margin-bottom: .8em;
+}
+dd {
+margin: 0 0 .8em 2em;
+}
+dd:last-child {
+margin-bottom: 0;
+}
+img {
+border: 0;
+-ms-interpolation-mode: bicubic;
+vertical-align: right;
+}
+figure {
+display: block;
+text-align: center;
+margin: 1em 0;
+}
+figure img {
+border: none;
+margin: 0 auto;
+}
+figcaption {
+font-size: 0.8em;
+font-style: italic;
+margin: 0 0 .8em;
+}
+table {
+margin-bottom: 2em;
+border-bottom: 1px solid #ddd;
+border-right: 1px solid #ddd;
+border-spacing: 0;
+border-collapse: collapse;
+}
+table th {
+padding: .2em 1em;
+background-color: #eee;
+border-top: 1px solid #ddd;
+border-left: 1px solid #ddd;
+}
+table td {
+padding: .2em 1em;
+border-top: 1px solid #ddd;
+border-left: 1px solid #ddd;
+vertical-align: top;
+}
+.author {
+font-size: 1.2em;
+text-align: center;
+}
+.links {
+text-align: center;
+font-size: 24pt;
+}
+@media only screen and (min-width: 480px) {
+body {
+font-size: 14px;
+}
+}
+@media only screen and (min-width: 768px) {
+body {
+font-size: 16px;
+}
+}
+@media print {
+* {
+background: transparent !important;
+color: black !important;
+filter: none !important;
+-ms-filter: none !important;
+}
+body {
+font-size: 12pt;
+max-width: 100%;
+}
+a, a:visited {
+text-decoration: underline;
+}
+hr {
+height: 1px;
+border: 0;
+border-bottom: 1px solid black;
+}
+a[href]:after {
+content: " (" attr(href) ")";
+}
+abbr[title]:after {
+content: " (" attr(title) ")";
+}
+.ir a:after, a[href^="javascript:"]:after, a[href^="#"]:after {
+content: "";
+}
+pre, blockquote {
+border: 1px solid #999;
+padding-right: 1em;
+page-break-inside: avoid;
+}
+tr, img {
+page-break-inside: avoid;
+}
+img {
+max-width: 50% !important;
+}
+@page :left {
+margin: 15mm 20mm 15mm 10mm;
+}
+@page :right {
+margin: 15mm 10mm 15mm 20mm;
+}
+p, h2, h3 {
+orphans: 3;
+widows: 3;
+}
+h2, h3 {
+page-break-after: avoid;
+}
+.portrait {
+padding-left: 10%;
+padding-right: 10%;
+display: block;
+text-align: center;
+}
+</style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
 </head>
 <body>
-<div style="clear: right">
-<img style="float: right;margin: 0 0 0 25px" alt="" src="rock_headshot.jpg" width="350" height="350" />
-<h3 id="parker-knight">Parker Knight</h3>
-<p>I am an undergraduate at the University of Florida studying Mathematics, with a strong interest in (bio)statistics.</p>
-<p>I spent last summer working at the Fred Hutchinson Cancer
-  Research Center under Tim Randolph. There, I analyzed a variety of
-  high-dimensional omics data, and developed
-  an <a href="https://www.github.com/pknight24/KPR">R package</a> for
-  fitting Kernel Penalized Regression models. I'm currently working
-  on expanding this method to incorporate adaptive kernel penalties,
-  advised by Sara Pollock with UF's Department of Mathematics. This
-  will be the topic of my undergraduate thesis. </p> 
-<p>I also work with Rhonda Bacher’s group at the UF Department of
-  Biostatistics. I am currently studying algorithms for the efficient
-  visualization of methylation data, as well as single-cell trajectory
-  inference methods.</p>
-</div>
-<p>Many of my projects are online at <a href="https://www.github.com/pknight24">GitHub</a>. You can
-  find my CV <a href="cv.pdf">here</a>.</p>
+<h1 id="bio">bio</h1>
+<p>My name is Parker Knight. I am a doctoral student in biostatistics at Harvard University, supported by an NSF Graduate Research Fellowship.</p>
+<p>My research focuses on high-dimensional estimation, prediction, and signal detection problems in statistical genetics. Recently, I’m thinking about:</p>
+<ul>
+<li><p>How can we leverage genetic correlations between traits to improve polygenic risk prediction? With what confidence can we make these predictions when we only have access to GWAS summary statistics?</p></li>
+<li><p>What are the fundamental limits of testing for multi-phenotype-multi-genotype assocations under structured alternatives? Can we efficiently scale these tests to large, high-dimensional datasets?</p>
+<p>I work closely on these problems with <a href="https://www.hsph.harvard.edu/profile/rui-duan/">Rui Duan</a> and <a href="https://scholar.harvard.edu/rajarshi/home">Rajarshi Mukherjee</a>.</p></li>
+</ul>
+<p>Before coming to Harvard, I was a mathematics major at the University of Florida, where I explored interests in neuroscience, bioinformatics, and functional programming. I spent a summer working with <a href="https://www.fredhutch.org/en/faculty-lab-directory/randolph-tim.html">Tim Randolph</a> at the Fred Hutch in Seattle, WA.</p>
 </body>
+</html>
