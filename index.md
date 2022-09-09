@@ -7,7 +7,7 @@
 I am a doctoral student in biostatistics at Harvard
 University, supported by an NSF Graduate Research Fellowship. 
 
-My research focuses on high-dimensional estimation, prediction, and signal detection problems
+My research focuses on high-dimensional estimation, prediction, and testing problems
 in statistical genetics. Recently, I'm thinking about:
 
 - How can we leverage genetic correlations between traits to improve polygenic
