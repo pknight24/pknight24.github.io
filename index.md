@@ -14,7 +14,7 @@ in statistical genetics. Recently, I'm thinking about:
   risk prediction? With what confidence can we make these predictions when we
   only have access to GWAS summary statistics?
 - What are the fundamental limits of testing for multi-phenotype-multi-genotype
-  assocations under structured alternatives? Can we efficiently scale these tests to large,
+  assocations? Can we efficiently scale these tests to large,
   high-dimensional datasets?
 
 
