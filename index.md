@@ -7,7 +7,7 @@
 I am a doctoral student in biostatistics at Harvard
 University, supported by an NSF Graduate Research Fellowship. 
 
-My research focuses on designing statistical machine learning tools that perform well under real-world constraints, especially data sharing restrictions and covariate shift. I am advised by Rui Duan, and also work closely with Tianxi Cai and Junwei Lu.
+My research focuses on designing statistical machine learning tools that perform well under real-world constraints, especially data sharing restrictions and covariate shift. I am advised by Rui Duan, and also work closely with Tianxi Cai.
 
  
 Before coming to Harvard, I was a mathematics major at the University of
