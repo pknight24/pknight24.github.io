@@ -20,4 +20,6 @@ You can find me on [GitHub](https://www.github.com/pknight24) and [Google Schola
 
 #### News 
 
+* (July 2023) We have a new paper on arXiv: [*Multi-Task Learning with Summary Statistics*](https://arxiv.org/abs/2307.02388).
+
 * (Feb. 2023) Our paper *Generalized Matrix Decomposition Regression: Estimation and Inference for Two-Way Structured Data* was accepted by the Annals of Applied Statistics. You can find the paper on [arXiv](https://arxiv.org/abs/2104.08408).
