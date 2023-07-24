@@ -5,9 +5,9 @@
 ### Parker Knight 
 
 I am a doctoral student in biostatistics at Harvard
-University, supported by an NSF Graduate Research Fellowship. 
+University, supported by an NSF Graduate Research Fellowship. My advisor is [Rui Duan](https://sites.google.com/view/ruiduan).
 
-My research focuses on designing statistical machine learning tools that address real-world constraints, especially data sharing restrictions and covariate shift. I am advised by Rui Duan, and also work closely with Tianxi Cai.
+My research develops theory and methods for polygenic risk prediction. I like to use tools from high-dimensional statistics and random matrix theory.
 
  
 Before coming to Harvard, I was a mathematics major at the University of
@@ -22,4 +22,4 @@ You can find me on [GitHub](https://www.github.com/pknight24) and [Google Schola
 
 * (July 2023) We have a new paper on arXiv: [*Multi-Task Learning with Summary Statistics*](https://arxiv.org/abs/2307.02388).
 
-* (Feb. 2023) Our paper *Generalized Matrix Decomposition Regression: Estimation and Inference for Two-Way Structured Data* was accepted by the Annals of Applied Statistics. You can find the paper on [arXiv](https://arxiv.org/abs/2104.08408).
+* (Feb. 2023) Our paper [*Generalized Matrix Decomposition Regression: Estimation and Inference for Two-Way Structured Data*](https://arxiv.org/abs/2104.08408) was accepted by the Annals of Applied Statistics.
