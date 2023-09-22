@@ -6,8 +6,7 @@
 
 I am a doctoral student in biostatistics at Harvard
 University, supported by an NSF Graduate Research Fellowship. My advisor is [Rui
-Duan](https://sites.google.com/view/ruiduan) and I work closely with
-[Tianxi Cai's](https://www.hsph.harvard.edu/profile/tianxi-cai/) lab.
+Duan](https://sites.google.com/view/ruiduan).
 
 My research develops theory and methods for data integration problems in high
 dimensions. I'm motivated by challenges posed by electronic
@@ -23,6 +22,8 @@ Research.
 You can find me on [GitHub](https://www.github.com/pknight24) and [Google Scholar](https://scholar.google.com/citations?user=NRV4UhwAAAAJ&hl=en&oi=ao).
 
 #### News 
+
+* (September 2023) Our paper [*Multi-Task Learning with Summary Statistics*](https://arxiv.org/abs/2307.02388) was accepted to NeurIPS 2023.
 
 * (August 2023) I gave a contributed talk at JSM 2023 titled *Multi-Task
   Learning with Summary Statistics*.
