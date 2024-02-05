@@ -23,9 +23,11 @@ You can find me on [GitHub](https://www.github.com/pknight24) and [Google Schola
 
 #### News 
 
-* (September 2023) Our paper [*Multi-Task Learning with Summary Statistics*](https://arxiv.org/abs/2307.02388) was accepted to NeurIPS 2023.
+* (Feb. 2024) I will serve as a reviewer for ICML 2024.
 
-* (August 2023) I gave a contributed talk at JSM 2023 titled *Multi-Task
+* (Sep. 2023) Our paper [*Multi-Task Learning with Summary Statistics*](https://arxiv.org/abs/2307.02388) was accepted to NeurIPS 2023.
+
+* (Aug. 2023) I gave a contributed talk at JSM 2023 titled *Multi-Task
   Learning with Summary Statistics*.
 
 * (July 2023) We have a new paper on arXiv: [*Multi-Task Learning with Summary Statistics*](https://arxiv.org/abs/2307.02388).
