@@ -23,6 +23,8 @@ You can find me on [GitHub](https://www.github.com/pknight24) and [Google Schola
 
 #### News 
 
+* (April 2024) I gave a 60-minute talk at the Harvard Biostatistics student seminar titled 'Building linear models from reference data: recent results and open problems'. Thanks to my friend and colleague Emma Crenshaw for the invitation.
+
 * (Feb. 2024) I will serve as a reviewer for ICML 2024.
 
 * (Sep. 2023) Our paper [*Multi-Task Learning with Summary Statistics*](https://arxiv.org/abs/2307.02388) was accepted to NeurIPS 2023.
