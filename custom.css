@@ -9,3 +9,10 @@ a:link {
 a:visited {
 	color:darkred;
 }
+
+.profile-headshot {
+            float: right; /* Aligns the image to the right */
+            margin: 10px; /* Adds some space around the image */
+            border-radius: 50%; /* Optional: makes the image round */
+            border: 2px solid #666; /* Optional: adds a border around the image */
+        }
