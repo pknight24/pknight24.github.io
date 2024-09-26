@@ -23,7 +23,7 @@ You can find me on [GitHub](https://www.github.com/pknight24) and [Google Schola
 
 #### News 
 
-* (August 2024) I gave a talk at JSM2024 titled *Latent factor point processes for patient classification with electronic health records*.
+* (August 2024) I gave a talk at JSM 2024 titled *Latent factor point processes for patient classification with electronic health records*.
 
 * (May 2024) I am honored to receive the Rose Traveling Fellowship from the Harvard School of Public Health. I will use the funds to visit my colleague Julien Chhor at the Toulouse School of Economics.
 
