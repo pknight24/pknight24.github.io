@@ -13,8 +13,8 @@ Duan](https://sites.google.com/view/ruiduan).
 
 My research develops theory and methods for data integration problems in high
 dimensions. I'm motivated by challenges posed by electronic
-health records and genotype data, especially pertaining to data privacy, model
-shifts across environments, and temporal embeddings. I'm also interested in
+health records and genotype data, especially pertaining to model
+shifts across environments and embeddings for heterogeneous temporal data. I'm also interested in
 minimax testing problems and the philosophy of science.
  
 Before coming to Harvard, I was a mathematics major at the University of
