@@ -1,19 +1,72 @@
+/* General Body Styling */
 body {
-	background-color: rgb(246, 252, 252);
-	color: black;
+    background-color: #f9fefe;
+    font-family: Arial, sans-serif;
+    max-width: 1200px;
+    margin: 0 auto;
+    margin-left: 20px;
+    padding: 20px;
+    line-height: 1.6;
+    color: black;
 }
 
-a:link {
-	color: darkblue;
-}
-a:visited {
-	color:darkblue;
+/* Header Styling */
+header {
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 5px;
 }
 
-.profile-headshot {
-            float: left; /* Aligns the image to the right */
-            margin: 10px; /* Adds some space around the image */
-	    border-radius: 0%;
-            width: 250px; /* Adjust the width of the image */
-            height: 250px; /* Adjust the height of the image */
-        }
+/* Section Headings */
+h2, h3 {
+    font-weight: bold;
+    color: #333;
+    margin-top: 10px;
+}
+
+/* Links */
+a {
+    color: #1a0dab;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* News Section */
+.news {
+    margin-top: 20px;
+}
+
+.news-item {
+    margin-bottom: 15px;
+}
+
+.image-container {
+    float: right;
+    margin-left: 200px; /* Adjust space between image and other content */
+    width: 220px; /* Adjust as needed */
+    text-align: center; /* Center the caption below the image */
+}
+
+.image-container img {
+    width: 100%; /* Makes the image fit the container width */
+}
+
+.image-container figcaption {
+    font-size: 0.75em;
+    color: #666;
+    margin-top: 5px;
+}
+
+
+
+/* Footer */
+footer {
+    font-size: 0.9em;
+    color: #666;
+    margin-top: 30px;
+    text-align: center;
+}
+

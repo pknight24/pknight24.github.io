@@ -1,17 +1,21 @@
-<link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
-
 <link rel="stylesheet" href="custom.css">
+
+<figure class="image-container">
+<img src="trees_cezanne.jpg" alt="Study of Trees, Paul Cezannne, 1904." class="right-image">
+<figcaption> Study of Trees. Paul Cezanne, c. 1904.</figcaption>
+</figure>
 
 ### Parker Knight 
 
-I am a doctoral student in biostatistics at Harvard
-University, supported by an NSF Graduate Research Fellowship. My advisor is [Rui
+I am a doctoral student in biostatistics at the Harvard T.H. Chan School of
+Public Health, supported by an NSF Graduate Research Fellowship. My advisor is [Rui
 Duan](https://sites.google.com/view/ruiduan).
 
 My research develops theory and methods for data integration problems in high
 dimensions. I'm motivated by challenges posed by electronic
-health records and genotype data.
-
+health records and genotype data, especially pertaining to data privacy, model
+shifts across environments, and temporal embeddings. I'm also interested in
+minimax testing problems and the philosophy of science.
  
 Before coming to Harvard, I was a mathematics major at the University of
 Florida, where I explored interests in neuroscience, bioinformatics, and
@@ -21,7 +25,7 @@ Research.
 
 You can find me on [GitHub](https://www.github.com/pknight24) and [Google Scholar](https://scholar.google.com/citations?user=NRV4UhwAAAAJ&hl=en&oi=ao).
 
-#### News 
+### News 
 
 * (Oct. 2024) I will serve as a reviewer for ICLR 2025.
 
@@ -33,11 +37,11 @@ You can find me on [GitHub](https://www.github.com/pknight24) and [Google Schola
 
 * (Feb. 2024) I will serve as a reviewer for ICML 2024.
 
-* (Sep. 2023) Our paper [*Multi-Task Learning with Summary Statistics*](https://arxiv.org/abs/2307.02388) was accepted to NeurIPS 2023.
+* (Sep. 2023) Our paper [*Multi-task learning with summary statistics*](https://arxiv.org/abs/2307.02388) was accepted to NeurIPS 2023.
 
-* (Aug. 2023) I gave a contributed talk at JSM 2023 titled *Multi-Task
-  Learning with Summary Statistics*.
+* (Aug. 2023) I gave a contributed talk at JSM 2023 titled *Multi-task
+  learning with summary statistics*.
 
-* (July 2023) We have a new paper on arXiv: [*Multi-Task Learning with Summary Statistics*](https://arxiv.org/abs/2307.02388).
+* (July 2023) We have a new paper on arXiv: [*Multi-task learning with summary statistics*](https://arxiv.org/abs/2307.02388).
 
-* (Feb. 2023) Our paper [*Generalized Matrix Decomposition Regression: Estimation and Inference for Two-Way Structured Data*](https://arxiv.org/abs/2104.08408) was accepted by the Annals of Applied Statistics.
+* (Feb. 2023) Our paper [*Generalized matrix decomposition regression: estimation and inference for two-way structured data*](https://arxiv.org/abs/2104.08408) was accepted by the Annals of Applied Statistics.
