@@ -27,6 +27,8 @@ You can find me on [GitHub](https://www.github.com/pknight24) and [Google Schola
 
 ### News 
 
+* (Feb. 2025) I am a visiting researcher at [Department of Mathematics and Statistics, Toulouse School of Economics](https://www.tse-fr.eu/groups/department-mathematics-and-statistics).
+
 * (Oct. 2024) I will serve as a reviewer for ICLR 2025.
 
 * (Aug. 2024) I gave a talk at JSM 2024 titled *Latent factor point processes for patient classification with electronic health records*.
