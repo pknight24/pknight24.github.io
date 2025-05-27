@@ -27,6 +27,8 @@ You can find me on [GitHub](https://www.github.com/pknight24) and [Google Schola
 
 ### News 
 
+* (May 2025) We have a new paper on arXiv: [*Optimal community detection in dense bipartite graphs*](https://arxiv.org/abs/2505.18372).
+
 * (March 2025) We have a new paper on arXiv: [*Fast and robust invariant generalized linear models*](https://arxiv.org/abs/2503.02611).
 
 * (Feb. 2025) I am a visiting researcher at [Department of Mathematics and Statistics, Toulouse School of Economics](https://www.tse-fr.eu/groups/department-mathematics-and-statistics).
