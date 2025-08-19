@@ -11,11 +11,22 @@ I am a doctoral student in biostatistics at the Harvard T.H. Chan School of
 Public Health, supported by an NSF Graduate Research Fellowship. My advisor is [Rui
 Duan](https://sites.google.com/view/ruiduan).
 
-My research develops theory and methods for data integration problems in high
-dimensions. I'm motivated by challenges posed by electronic
-health records and genotype data, especially pertaining to model
-shifts across environments and embeddings for heterogeneous temporal data. I'm also interested in
-minimax testing problems and the philosophy of science.
+My research develops theory and methods to address challenges arising from
+large scale, multi-institutional biomedical science. Recently, I am focused on:
+
+1. Designing interpretable models and integrative methods for data sampled from heterogenous
+sources.
+
+2. Developing methods that capture temporal patterns in massive electronic health records datasets and
+leveraging these patterns in downstream risk prediction tasks.
+
+3. Understanding fundamental limits of signal detection in high-dimensional,
+matrix-structured data.
+
+My methodological work relies on tools from nonparametric statistics,
+high-dimensional probability, and optimization. I have also benefited greatly from
+ongoing collaborations with the [PsycheMERGE
+consortium.](https://psychemerge.com).
  
 Before coming to Harvard, I was a mathematics major at the University of
 Florida, where I explored interests in neuroscience, bioinformatics, and
@@ -27,8 +38,8 @@ You can find me on [GitHub](https://www.github.com/pknight24) and [Google Schola
 
 ### Selected papers 
 
-* Chhor, J., & Knight, P. (2025). Optimal community detection in dense bipartite graphs. arXiv preprint arXiv:2505.18372.
+* Chhor, J., & **Knight, P.** (2025). Optimal community detection in dense bipartite graphs. arXiv preprint arXiv:2505.18372. [(link)](https://arxiv.org/abs/2505.18372)
 
-* Knight, P., Jobe, N. I., & Duan, R. (2025). Fast and robust invariant generalized linear models. arXiv preprint arXiv:2503.02611.
+* **Knight, P.**, Jobe, N. I., & Duan, R. (2025). Fast and robust invariant generalized linear models. arXiv preprint arXiv:2503.02611. [(link)](https://arxiv.org/abs/2503.02611)
 
-* Knight, P., & Duan, R. (2023). Multi-task learning with summary statistics. Advances in neural information processing systems, 36, 54020-54031.
+* **Knight, P.**, & Duan, R. (2023). Multi-task learning with summary statistics. Advances in neural information processing systems, 36, 54020-54031. [(link)](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a924b7178e5975dfed1de235f0b72973-Abstract-Conference.html)
