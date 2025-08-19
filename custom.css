@@ -3,13 +3,11 @@ body {
     background-color: #f9fefe;
     font-family: Arial, sans-serif;
     max-width: 1000px;
-    margin: 0 auto;
+    margin: 0 auto; /* This centers the content block on the page */
     padding: 20px;
     line-height: 1.6;
     color: black;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+    /* Content is left-justified by default, so no additional rule is needed here. */
 }
 
 /* Header Styling */
@@ -39,7 +37,6 @@ a:hover {
 /* News Section */
 .news {
     margin-top: 20px;
-    width: 100%;
 }
 
 .news-item {
@@ -47,22 +44,20 @@ a:hover {
 }
 
 .image-container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    width: 220px;
-    margin: 0 auto 20px;
+    float: right;
+    margin-left: 200px; /* Adjusts space between image and other content */
+    width: 220px; /* Adjust as needed */
+    text-align: center; /* Centers the caption below the image */
 }
 
 .image-container img {
-    width: 100%;
+    width: 100%; /* Makes the image fit the container width */
 }
 
 .image-container figcaption {
     font-size: 0.75em;
     color: #666;
     margin-top: 5px;
-    text-align: center;
 }
 
 /* Footer */
