@@ -26,7 +26,7 @@ matrix-structured data.
 My methodological work relies on tools from nonparametric statistics,
 high-dimensional probability, and optimization. I have also benefited greatly from
 ongoing collaborations with the [PsycheMERGE
-consortium.](https://psychemerge.com).
+consortium.](https://psychemerge.com)
  
 Before coming to Harvard, I was a mathematics major at the University of
 Florida, where I explored interests in neuroscience, bioinformatics, and
