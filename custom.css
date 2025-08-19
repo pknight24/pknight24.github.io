@@ -4,8 +4,8 @@ body {
     font-family: Arial, sans-serif;
     max-width: 1000px;
     margin: 0 auto;
-    margin-left: 30px;
-    padding: 30px;
+    margin-left: 20px;
+    padding: 20px;
     line-height: 1.6;
     color: black;
 }
@@ -45,7 +45,7 @@ a:hover {
 
 .image-container {
     float: right;
-    margin-left: 300px; /* Adjust space between image and other content */
+    margin-left: 200px; /* Adjust space between image and other content */
     width: 220px; /* Adjust as needed */
     text-align: center; /* Center the caption below the image */
 }
