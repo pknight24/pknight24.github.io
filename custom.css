@@ -4,10 +4,12 @@ body {
     font-family: Arial, sans-serif;
     max-width: 1000px;
     margin: 0 auto;
-    margin-left: 20px;
     padding: 20px;
     line-height: 1.6;
     color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 /* Header Styling */
@@ -37,6 +39,7 @@ a:hover {
 /* News Section */
 .news {
     margin-top: 20px;
+    width: 100%;
 }
 
 .news-item {
@@ -44,23 +47,23 @@ a:hover {
 }
 
 .image-container {
-    float: right;
-    margin-left: 200px; /* Adjust space between image and other content */
-    width: 220px; /* Adjust as needed */
-    text-align: center; /* Center the caption below the image */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 220px;
+    margin: 0 auto 20px;
 }
 
 .image-container img {
-    width: 100%; /* Makes the image fit the container width */
+    width: 100%;
 }
 
 .image-container figcaption {
     font-size: 0.75em;
     color: #666;
     margin-top: 5px;
+    text-align: center;
 }
-
-
 
 /* Footer */
 footer {
@@ -69,4 +72,3 @@ footer {
     margin-top: 30px;
     text-align: center;
 }
-
