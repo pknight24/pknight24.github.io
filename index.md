@@ -38,6 +38,10 @@ You can find me on [GitHub](https://www.github.com/pknight24) and [Google Schola
 
 ### Selected papers 
 
+* **Knight, P.**, Zhou, D., Xia, Z., Cai, T., & Lu, J. (2025). Latent Factor Point
+* Processes for Patient Representation in Electronic Health Records. arXiv
+* preprint arXiv:2508.20327. [(link)](https://arxiv.org/abs/2508.20327)
+
 * Chhor, J., & **Knight, P.** (2025). Optimal community detection in dense bipartite graphs. arXiv preprint arXiv:2505.18372. [(link)](https://arxiv.org/abs/2505.18372)
 
 * **Knight, P.**, Jobe, N. I., & Duan, R. (2025). Fast and robust invariant generalized linear models. arXiv preprint arXiv:2503.02611. [(link)](https://arxiv.org/abs/2503.02611)
