@@ -40,8 +40,8 @@ You can find me on [GitHub](https://www.github.com/pknight24) and [Google Schola
 
 * **Knight, P.**, Zhou, D., Xia, Z., Cai, T., & Lu, J. (2025). Latent Factor Point Processes for Patient Representation in Electronic Health Records. arXiv preprint arXiv:2508.20327. [(link)](https://arxiv.org/abs/2508.20327)
 
-* Chhor, J., & **Knight, P.** (2025). Optimal community detection in dense bipartite graphs. arXiv preprint arXiv:2505.18372. [(link)](https://arxiv.org/abs/2505.18372)
+* Chhor, J., & **Knight, P.** (2025). Optimal community detection in dense bipartite graphs. arXiv preprint arXiv:2505.18372. *To appear in Advances in Neural Information Processing Systems*.[(link)](https://arxiv.org/abs/2505.18372)
 
 * **Knight, P.**, Jobe, N. I., & Duan, R. (2025). Fast and robust invariant generalized linear models. arXiv preprint arXiv:2503.02611. [(link)](https://arxiv.org/abs/2503.02611)
 
-* **Knight, P.**, & Duan, R. (2023). Multi-task learning with summary statistics. Advances in neural information processing systems, 36, 54020-54031. [(link)](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a924b7178e5975dfed1de235f0b72973-Abstract-Conference.html)
+* **Knight, P.**, & Duan, R. (2023). Multi-task learning with summary statistics. *Advances in Neural Information Processing Systems*, 36, 54020-54031. [(link)](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a924b7178e5975dfed1de235f0b72973-Abstract-Conference.html)
