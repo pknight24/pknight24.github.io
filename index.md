@@ -38,7 +38,7 @@ You can find me on [GitHub](https://www.github.com/pknight24) and [Google Schola
 
 ### Selected papers 
 
-* **Knight, P.**, Zhou, D., Xia, Z., Cai, T., & Lu, J. (2025). Latent Factor Point Processes for Patient Representation in Electronic Health Records. arXiv preprint arXiv:2508.20327. [(link)](https://arxiv.org/abs/2508.20327)
+* **Knight, P.**, Zhou, D., Xia, Z., Cai, T., & Lu, J. (2025). Latent Factor Point Processes for Patient Representation in Electronic Health Records. arXiv preprint arXiv:2508.20327. *Under revision at Journal of the American Statistical Association (Theory and Methods)*. [(link)](https://arxiv.org/abs/2508.20327)
 
 * Chhor, J., & **Knight, P.** (2025). Optimal community detection in dense bipartite graphs. arXiv preprint arXiv:2505.18372. *To appear in Advances in Neural Information Processing Systems*.[(link)](https://arxiv.org/abs/2505.18372)
 
