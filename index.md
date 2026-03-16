@@ -1,8 +1,8 @@
 <link rel="stylesheet" href="custom.css">
 
 <figure class="image-container">
-<img src="trees_cezanne.jpg" alt="Study of Trees, Paul Cezannne, 1904." class="right-image">
-<figcaption> Study of Trees. Paul Cezanne, c. 1904.</figcaption>
+<img src="headshot-2026-winter.jpeg" alt="headshot" class="right-image">
+<figcaption>Contact: pknight at g dot harvard dot edu.</figcaption>
 </figure>
 
 ### Parker Knight 
@@ -10,6 +10,8 @@
 I am a doctoral student in biostatistics at the Harvard T.H. Chan School of
 Public Health, supported by an NSF Graduate Research Fellowship. My advisor is [Rui
 Duan](https://sites.google.com/view/ruiduan).
+
+**I will join UNC Chapel Hill as an Assistant Professor of Biostatistics in August 2026.**
 
 My research develops theory and methods to address challenges arising from
 large scale, multi-institutional biomedical science. Recently, I am focused on:
@@ -28,12 +30,6 @@ high-dimensional probability, and optimization. I have also benefited greatly fr
 ongoing collaborations with the [PsycheMERGE
 consortium.](https://psychemerge.com)
  
-Before coming to Harvard, I was a mathematics major at the University of
-Florida, where I explored interests in neuroscience, bioinformatics, and
-functional programming. I spent a summer working with [Tim Randolph](https://www.fredhutch.org/en/faculty-lab-directory/randolph-tim.html) at the Fred Hutch
-in Seattle, WA, and served on the executive board of UF's Center for Undergraduate
-Research.
-
 You can find me on [GitHub](https://www.github.com/pknight24) and [Google Scholar](https://scholar.google.com/citations?user=NRV4UhwAAAAJ&hl=en&oi=ao).
 
 ### Selected papers 

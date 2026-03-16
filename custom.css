@@ -1,7 +1,7 @@
 /* General Body Styling */
 body {
     background-color: #f9fefe;
-    font-family: Arial, sans-serif;
+    font-family: Helvetica, sans-serif;
     max-width: 800px;
     margin: 0 auto; /* This centers the content block on the page */
     padding: 20px;
@@ -45,8 +45,9 @@ a:hover {
 
 .image-container {
     float: right;
-    margin-left: 200px; /* Adjusts space between image and other content */
-    width: 220px; /* Adjust as needed */
+    margin-left: 150px; /* Adjusts space between image and other content */
+    margin-right: -150px;
+    width: 350px; /* Adjust as needed */
     text-align: center; /* Centers the caption below the image */
 }
 
