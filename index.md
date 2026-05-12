@@ -34,9 +34,9 @@ You can find me on [GitHub](https://www.github.com/pknight24) and [Google Schola
 
 ### Selected papers 
 
-*  **Knight, P.**, & Chhor, J (2026). Minimax optimal submatrix detection: Sharp non-asymptotic rates. arXiv preprint arXiv:2605.09569. [(link)](https://arxiv.org/abs/2605.09569)
+*  **Knight, P.**, & Chhor, J (2026+). Minimax optimal submatrix detection: Sharp non-asymptotic rates. arXiv preprint arXiv:2605.09569. [(link)](https://arxiv.org/abs/2605.09569)
 
-* **Knight, P.**, Zhou, D., Xia, Z., Cai, T., & Lu, J. (2025). Latent Factor Point Processes for Patient Representation in Electronic Health Records. arXiv preprint arXiv:2508.20327. *Under revision at Journal of the American Statistical Association (Theory and Methods)*. [(link)](https://arxiv.org/abs/2508.20327)
+* **Knight, P.**, Zhou, D., Xia, Z., Cai, T., & Lu, J. (2026+). Latent Factor Point Processes for Patient Representation in Electronic Health Records. arXiv preprint arXiv:2508.20327. *Under revision at Journal of the American Statistical Association (Theory and Methods)*. [(link)](https://arxiv.org/abs/2508.20327)
 
 * Chhor, J., & **Knight, P.** (2026). Optimal community detection in dense bipartite graphs. *Advances in Neural Information Processing Systems*, 38, 130360-130379. [(link)](https://proceedings.neurips.cc/paper_files/paper/2025/hash/bd0870ff3e5f472180122752e9ca5485-Abstract-Conference.html)
 
