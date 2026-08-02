@@ -2,16 +2,12 @@
 
 <figure class="image-container">
 <img src="headshot-2026-winter.jpeg" alt="headshot" class="right-image">
-<figcaption>Contact: pknight at g dot harvard dot edu.</figcaption>
+<figcaption>Contact: plk at unc dot edu.</figcaption>
 </figure>
 
 ### Parker Knight 
 
-I am a doctoral student in biostatistics at the Harvard T.H. Chan School of
-Public Health, supported by an NSF Graduate Research Fellowship. My advisor is [Rui
-Duan](https://sites.google.com/view/ruiduan).
-
-**I will join UNC Chapel Hill as an Assistant Professor of Biostatistics in August 2026.**
+I am an Assistant Professor of Biostatistics at UNC Chapel Hill.
 
 My research develops theory and methods to address challenges arising from
 large scale, multi-institutional biomedical science. Recently, I am focused on:
@@ -29,7 +25,10 @@ My methodological work relies on tools from nonparametric statistics,
 high-dimensional probability, and optimization. I have also benefited greatly from
 ongoing collaborations with the [PsycheMERGE
 consortium.](https://psychemerge.com)
- 
+
+I hold a PhD in Biostatistics from Harvard University. My advisor was [Rui Duan](https://sites.google.com/view/ruiduan).
+
+
 You can find me on [GitHub](https://www.github.com/pknight24) and [Google Scholar](https://scholar.google.com/citations?user=NRV4UhwAAAAJ&hl=en&oi=ao).
 
 ### Selected papers 
