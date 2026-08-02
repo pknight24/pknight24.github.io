@@ -7,7 +7,10 @@
 
 ### Parker Knight 
 
-I am an Assistant Professor of Biostatistics at UNC Chapel Hill.
+I am an Assistant Professor of Biostatistics at UNC Chapel Hill, where I am also
+an affiliate member of the [Gillings Center for AI and Public
+Health](https://sph.unc.edu/resource-pages/caiph/). I completed a PhD in
+Biostatistics from Harvard University under [Rui Duan](https://sites.google.com/view/ruiduan).
 
 My research develops theory and methods to address challenges arising from
 large scale, multi-institutional biomedical science. Recently, I am focused on:
@@ -25,8 +28,6 @@ My methodological work relies on tools from nonparametric statistics,
 high-dimensional probability, and optimization. I have also benefited greatly from
 ongoing collaborations with the [PsycheMERGE
 consortium.](https://psychemerge.com)
-
-I hold a PhD in Biostatistics from Harvard University. My advisor was [Rui Duan](https://sites.google.com/view/ruiduan).
 
 
 You can find me on [GitHub](https://www.github.com/pknight24) and [Google Scholar](https://scholar.google.com/citations?user=NRV4UhwAAAAJ&hl=en&oi=ao).
