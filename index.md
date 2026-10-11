@@ -10,7 +10,7 @@
 I am an Assistant Professor in the [Department of
 Biostatistics](https://sph.unc.edu/bios/biostatistics/) at UNC Chapel Hill. I am also
 an affiliate member of the [Gillings Center for AI and Public
-Health](https://sph.unc.edu/resource-pages/caiph/) and [Carolina Health
+Health](https://sph.unc.edu/resource-pages/caiph/) and the [Carolina Health
 Informatics Program](https://chip.unc.edu). I completed a PhD in
 Biostatistics at Harvard University under [Rui Duan](https://sites.google.com/view/ruiduan).
 
