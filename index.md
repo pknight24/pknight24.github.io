@@ -7,9 +7,11 @@
 
 ### Parker Knight 
 
-I am an Assistant Professor of Biostatistics at UNC Chapel Hill, where I am also
+I am an Assistant Professor in the [Department of
+Biostatistics](https://sph.unc.edu/bios/biostatistics/) at UNC Chapel Hill. I am also
 an affiliate member of the [Gillings Center for AI and Public
-Health](https://sph.unc.edu/resource-pages/caiph/). I completed a PhD in
+Health](https://sph.unc.edu/resource-pages/caiph/) and [Carolina Health
+Informatics Program](https://chip.unc.edu). I completed a PhD in
 Biostatistics at Harvard University under [Rui Duan](https://sites.google.com/view/ruiduan).
 
 My research develops theory and methods to address challenges arising from
